@@ -4,4 +4,4 @@
 Compilação de um kernel Linux
 
 ### Atividade 2
-Compilação de um módulo do kernel Linux
+Compilação de módulos do kernel Linux
