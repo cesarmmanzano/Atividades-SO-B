@@ -1,4 +1,4 @@
-# Experimentos de Sistemas Operacionais (Linux)
+# Atividades de Sistemas Operacionais (Linux)
 
 ### Atividade 1
 Compilação de um kernel Linux
